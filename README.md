@@ -68,3 +68,4 @@ Also note that we're calling `parseInt` on the key value. This is because the ev
 [keydown]: https://developer.mozilla.org/en-US/docs/Web/Events/keydown
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/konami-code-lab'>Konami Code Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T2 Konami Code Lab</p>
